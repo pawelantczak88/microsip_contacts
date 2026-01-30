@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts refresh="300" silent="1">
+  <contact name="Paulina" number="10" phone="10" />
+  <contact name="Tomasz" number="11" phone="11" />
+  <contact name="Paweł" number="12" phone="12" />
+  <contact name="Natalia" number="13" phone="13" />
+  <contact name="Michał" number="14" phone="14" />
+  <contact name="Arek" number="15" phone="15" />
+</contacts>
